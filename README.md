@@ -1,8 +1,10 @@
 ## Hi👋, I'm Charlyy (cherm)
-<a href="https://twitter.com/intent/user?screen_name=Charlyydev">
+<a href="https://twitter.com/intent/user?screen_name=chermdev">
   <img src="https://img.shields.io/twitter/follow/chermdev?style=social" alt="Follow chermdev on twitter">
 </a>
-
+<a href="https://twitter.com/intent/user?screen_name=Charlyydev">
+  <img src="https://img.shields.io/twitter/follow/chermdev?style=social" alt="Follow CharlyyDev on twitter">
+</a>
 
 Working as a Python SDET, Creating E2E tests with Selenium <img src="https://www.svgrepo.com/show/452091/python.svg" width="15px" height="15px"> and Playwright <img src="https://www.svgrepo.com/show/452091/python.svg" width="15px" height="15px"><img src="https://www.svgrepo.com/show/452045/js.svg" width="15px" height="15px">
 
