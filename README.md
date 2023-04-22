@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/charlyydev?style=social)](https://twitter.com/intent/user?screen_name=charlyydev)
 
 
-Working as a Python SDET, Creating E2E tests with Selenium <img src="https://www.svgrepo.com/show/452091/python.svg" width="15px" height="15px"> and Playwright <img src="https://www.svgrepo.com/show/452091/python.svg" width="15px" height="15px"><img src="https://www.svgrepo.com/show/452045/js.svg" width="15px" height="15px">
+Working as a Python SDET, creating E2E tests with Selenium <img src="https://www.svgrepo.com/show/452091/python.svg" width="15px" height="15px"> and Playwright <img src="https://www.svgrepo.com/show/452091/python.svg" width="15px" height="15px"><img src="https://www.svgrepo.com/show/452045/js.svg" width="15px" height="15px">
 
 ---
 ### 💻 I have worked with the next technologies: <br>
