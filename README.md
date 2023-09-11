@@ -1,8 +1,5 @@
 ## Hi👋, I'm Charlyy (cherm)
-[![Twitch Status](https://img.shields.io/twitch/status/charlyydev?style=social)](https://twitch.com/charlyydev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/chermdev?style=social)](https://twitter.com/intent/user?screen_name=chermdev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/charlyydev?style=social)](https://twitter.com/intent/user?screen_name=charlyydev)
-
 
 Working as a Python SDET, creating E2E tests with Selenium <img src="https://www.svgrepo.com/show/452091/python.svg" width="15px" height="15px"> and Playwright <img src="https://www.svgrepo.com/show/452091/python.svg" width="15px" height="15px"><img src="https://www.svgrepo.com/show/452045/js.svg" width="15px" height="15px">
 
