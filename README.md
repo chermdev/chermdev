@@ -1,7 +1,7 @@
 ## Hi👋, I'm Charlyy (cherm)
 [![Twitter Follow](https://img.shields.io/twitter/follow/chermdev?style=social)](https://twitter.com/intent/user?screen_name=chermdev)
 
-Working as a Python SDET, creating E2E tests with Playwright
+Working as SDET with Playwright
 <img src="https://www.svgrepo.com/show/452045/js.svg" width="15px" height="15px">
 <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" width="15px" height="15px">
 
@@ -25,6 +25,7 @@ Working as a Python SDET, creating E2E tests with Playwright
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 
 <!---
