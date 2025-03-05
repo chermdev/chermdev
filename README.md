@@ -1,6 +1,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/chermdev?style=social)](https://twitter.com/intent/user?screen_name=chermdev)
 
-Hey there! 👋 I'm Charlie, a passionate SDET engineer building scalable and high-quality web applications with React, Next.js, TypeScript, and Tailwind. Passionate about test automation, integrating Playwright for robust end-to-end testing, and optimizing CI/CD workflows.<br/>
+Hey there! 👋 I'm Charlie, a passionate QA Automation Engineer & SDET building scalable and high-quality web applications with React, Next.js, TypeScript, and Tailwind. Passionate about test automation, integrating Playwright for robust end-to-end testing, and optimizing CI/CD workflows.<br/>
 
 🔹 Big fan of Zustand, React Query, and Tailwind for clean and scalable UI.<br/>
 🔹 Strong focus on performance and security.<br/>
