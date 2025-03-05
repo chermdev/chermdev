@@ -1,7 +1,15 @@
-## Hi👋, I'm Charlyy (cherm)
 [![Twitter Follow](https://img.shields.io/twitter/follow/chermdev?style=social)](https://twitter.com/intent/user?screen_name=chermdev)
 
-Working as SDET with Playwright
+Hey there! 👋 I'm Charlie, a passionate SDET engineer building scalable and high-quality web applications with React, Next.js, TypeScript, and Tailwind. Passionate about test automation, integrating Playwright for robust end-to-end testing, and optimizing CI/CD workflows.<br/>
+
+🔹 Big fan of Zustand, React Query, and Tailwind for clean and scalable UI.<br/>
+🔹 Strong focus on performance and security.<br/>
+🔹 Experienced in Stripe integrations and handling multi-tenant applications.<br/>
+🔹 Automating tests and ensuring software reliability with GitLab CI/CD.<br/>
+
+💡 Always learning, optimizing, and sharing insights. Let’s build something awesome! 🚀<br/>
+
+Currently working as SDET with Playwright
 <img src="https://www.svgrepo.com/show/452045/js.svg" width="15px" height="15px">
 <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" width="15px" height="15px">
 
