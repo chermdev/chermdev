@@ -73,4 +73,18 @@ On the backend, I enjoy using **Prisma**, **Supabase RPCs**, and **PostgreSQL** 
 ---
 
 ### 🧠 What I bring to your project:
-- Full-stack product thinking with performance,
+- Test Automation Expertise: Playwright, TypeScript, JavaScript
+- CI/CD Integrations: Automating test execution at every stage
+- Scalable & Maintainable Code: SOLID principles, POM, fixtures
+- Agile Development: Collaborating in cross-functional teams
+- Conversational English: Working with US-based clients for 4+ years
+- Full-stack product thinking with performance, UX, and scalability in mind
+- Production-ready frontends with **Next.js**, **Zustand**, and **Tailwind**
+- Backend experience with **Supabase RPCs** and **Prisma ORM**
+- Testing expertise to reduce flakiness and ensure releases go smoothly
+- Focus on developer experience (DX), performance budgets, and clean code
+
+---
+
+💡 Let’s collaborate on your **Next** _.js_ **idea** or **SaaS** project — especially if it needs quality baked-in from day one.  
+📫 Reach out on [Linkedin](https://www.linkedin.com/in/chermdev/).
