@@ -14,12 +14,15 @@ I'm a QA Automation Engineer & Full-Stack Developer passionate about building sc
 A complete raffle tenant site built with **Next.js 15 (App Router)**, **Zustand**, **Resend**, **PostHog**, **Supabase**, **Prisma**, and **Stripe**.
 Offers a friendly ticket-selling experience with built-in features:
 
-- Shopping cart with bonus handling  
-- 30-minute reservation timer  
-- Lucky machine for ticket selection  
+- Shopping cart with bonus handling.
+- 30-minute reservation timer.
+- Lucky machine for ticket selection.
 - Game countdown with automatic order locking to prevent purchases after the raffle ends.
-- User authentication, order history, and digital delivery via email  
-- Responsive design, dark mode, and secure payment flows
+- User authentication, order history, and digital delivery via email.
+- Responsive design, dark mode, and secure payment flows.
+- Automated payments with Card and OXXO.
+- Semi-automated payments with Bank Transfers vía Whatsapp.
+- Stripe payment
 <br/>
 <br/>
 <img width="2525" height="1038" alt="image" src="https://github.com/user-attachments/assets/8a675442-0dff-4218-87c2-2debaf9c3ef9" />
@@ -29,12 +32,12 @@ Offers a friendly ticket-selling experience with built-in features:
 The **multi-tenant admin platform** where subdomain raffle sites are created and managed. Built with **Next.js 15**, **Supabase**, **Prisma**, **Zustand**, and **Stripe**  
 Includes a powerful control panel for raffle owners to:
 
-- Create and manage raffles with multiple editions  
-- Set up promotions, bonuses and cupons  
-- Select winners and publish results  
-- Track performance and customer orders  
-- Customize branding and editable page content via Markdown  
-  
+- Create and manage raffles with multiple editions.
+- Set up promotions, bonuses and cupons.
+- Select winners and publish results.
+- Track performance and customer orders.
+- Customize branding and editable page content via Markdown.
+- Stripe orders management with Stripe Connect
 
 I love working with tools like **Shadcn/ui**, **Zustand**, **React Query**, **Nuqs**, **Prisma (and exploring Drizzle)** and **Tailwind** to craft delightful user interfaces.  
 On the backend, I enjoy using **Prisma**, **Supabase RPCs**, and **PostgreSQL** to keep things fast and maintainable.
